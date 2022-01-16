@@ -6,14 +6,12 @@ it achieves optimal bit complexity.
 
 If you use our result, please cite our paper:
 
-    @article{zhang2020faster,
+    @inproceedings{zhang2020faster,
      title={Faster Binary Embeddings for Preserving Euclidean Distances},
      author={Zhang, Jinjie and Saab, Rayan},
-     journal={arXiv preprint arXiv:2010.00712},
+     booktitle={International Conference on Learning Representations},
      year={2020}
      }
-
-
 
 ### Description
 quantizer.py contains all Sigma-Delta quantization schemes used in the paper. One can reproduce our numerical 
